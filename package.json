@@ -1,0 +1,32 @@
+{
+  "name": "tpadmin",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "tpadmin": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.7",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.1",
+    "commander": "^9.0.0",
+    "configstore": "^6.0.0",
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^10.0.2"
+  },
+  "scripts": {
+    "start": "babel-node bin/index.js",
+    "watch": "nodemon --exec babel-node bin/index.js",
+    "park": "npm install -g .",
+    "unpark": "npm uninstall -g tpadmin"
+  }
+}
