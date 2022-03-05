@@ -1,0 +1,146 @@
+#Letters | 2 letters
+fj
+dk
+sl
+a;
+gh
+fh
+jg
+ru
+ei
+wo
+qp
+fy
+jr
+gy
+ht
+di
+ke
+so
+lw
+ap
+;q
+bn
+vm
+c,
+x.
+z/
+a[
+f]
+a'
+a\
+s=
+j`
+h2
+a-
+s0
+k2
+d8
+d9
+l3
+s8
+f7
+h4
+j5
+j6
+g7
+g8
+
+#Letters | 4 letters
+f;aj
+a;sl
+g;wo
+g'lw
+ghfj
+dksl
+sla;
+eia;
+z/a;
+woei
+bnwo
+eity
+bpzh
+qpa'
+az/s
+x.dk
+woz/
+qpz/
+x.wo
+c,ei
+q/zp
+w.so
+gynw
+nobt
+tybh
+wpz,
+.w,c
+cygn
+bmwy
+tx.y
+c,wo
+yodw
+ghx.
+ghz/
+qwpo
+woa;
+
+#Numbers and Symbols | Numbers
+12345678
+90876543
+10293847
+24681357
+36924680
+12+73=85
+30+34=64
+98-24=74
+4*75=300
+3*40=120
+3**6=729
+20/2=?10
+60/10=?6
+1+2+9=12
+1a+2a=3a
+5x+4x=9x
+
+#Numbers and Symbols | Symbols
+~!@#$%^&
+*()_+=-#
+5>3=3<5?
+1,2./\|@
+{|\/<>.}
+~4&~4=-5
+120#>99$
+99$!=99#
+1&1|2#@%
+!2+!34=0
+(1+9)=10
+[4+9]=13
+{4+7}=11
+|-12|=12
+\[ab]$\g
+`${8+3}`
+
+#Words | Nouns
+lamp quote pocket resist
+tear yearn guitar elapse
+scan power height unique
+plan cable public trance
+rule fence devote buffet
+grow train mobile oppose
+roof funny secure quaint
+knot green misery budget
+film claim helmet needle
+lump bride senior timber
+soak equip cotton spider
+lose chase winter devote
+dish close length delete
+ring valid tumour immune
+nest first demand sleeve
+self state assume affair
+tail swarm prefer bottom
+heel ditch accept kettle
+nail screw insert relate
+area dozen cotent return
+
+#Sentences | People at a Glance
+People have lived in the world for millions of years. Today, 6.3 billion people live on the earth. The world's population grows by 100 million each year. Some 950 million people in the world are malnourished. There are 106 boys born for every 100 girls. The average male adult is 5'9" tall and weighs 155 pounds. The average female adult is 5'3" tall and weighs 125 pounds.

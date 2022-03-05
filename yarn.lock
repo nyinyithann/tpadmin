@@ -1090,6 +1090,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@nyinyithann/vec.js@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@nyinyithann/vec.js/-/vec.js-1.0.1.tgz#d5c4762d2b7de1eec8bdf6d4712de8a5317a3729"
+  integrity sha512-Wa2R4Sg5usYYARYS7hJgRWaFtc0OMkMuKWltf14iiaeVJyl0zF1iDr0Je0UlxmyGrPECwgoiOzuUQjJT3daSog==
+
 "@panva/asn1.js@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@panva/asn1.js/-/asn1.js-1.0.0.tgz#dd55ae7b8129e02049f009408b97c61ccf9032f6"

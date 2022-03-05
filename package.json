@@ -17,6 +17,7 @@
     "nodemon": "^2.0.6"
   },
   "dependencies": {
+    "@nyinyithann/vec.js": "^1.0.1",
     "cli-color": "^2.0.1",
     "commander": "^9.0.0",
     "configstore": "^6.0.0",

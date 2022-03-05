@@ -5,9 +5,11 @@ import clc from 'cli-color';
 import path from 'path';
 import {once} from 'events';
 import fs, {createReadStream} from 'fs';
+import {readFile} from 'fs/promises';
 import {createInterface} from 'readline';
 import admin from "firebase-admin";
 import {Command} from 'commander';
+import {Vec} from '@nyinyithann/vec.js';
 
 import Configstore from 'configstore';
 
@@ -35,7 +37,7 @@ async function getLessonsFromFile(filePath) {
             if (line.startsWith("#")) {
                 [category, title] = line.slice(1).split("|");
                 category = category.trim();
-                title = title.trim();
+                title = title ? title.trim() : '';
             } else {
                 lessons.push({
                     id: index++,
@@ -113,7 +115,7 @@ program
 program.command("uploadLessons")
     .description("Upload lessons from the json file to firestore.")
     .option("-e, --emulator <boolean>", "Run in emulator")
-    .option("-f, --filePath <string>", "Lesson JSON file path", './data/lessons.txt')
+    .option("-f, --filePath <string>", "Lesson file path", './data/lessons.txt')
     .action(async (options) => {
         try {
             setEmulator(!!options.emulator);
@@ -149,6 +151,58 @@ program.command("updateConfig")
                 newLessonIds,
             }
             writeConfigs(db, configs);
+        } catch (e) {
+            logE(e);
+        }
+    });
+
+async function getWordsFromFile() {
+    const filePath = path.join(path.resolve(), './data/words.txt');
+    const rl = createInterface({
+        input: createReadStream(filePath),
+        crlfDelay: Infinity
+    });
+
+    const words = Vec.empty();
+    rl.on('line', (l) => {
+        const line = l.trim();
+        if (line !== '' && line.length > 2) {
+            words.push(line);
+        }
+    });
+
+    await once(rl, 'close'); words.sort();
+    return words;
+}
+
+program.command("words")
+    .description("Display words in A-Z order")
+    .action(async (options) => {
+        try {
+            const words = await getWordsFromFile();
+            words.sort((x, y) => x.length - y.length);
+            for (let i = 97; i < 122; i++) {
+                const alphabet = String.fromCharCode(i);
+                const wordStartedWithAlphabet = words.filter(x => x.startsWith(alphabet));
+                const groups = wordStartedWithAlphabet.groupBy(x => x.length);
+                logI(`\n#Words | ${alphabet.toUpperCase()}`);
+                for (const [key, values] of groups) {
+                    if (key > 8) continue;
+                    let count = 6
+                    let end = count;
+                    let start = 0;
+                    let rowCount = 0;
+                    let lesson = "";
+                    while (start < values.length) {
+                        if (rowCount++ === 12) break;
+                        const row = values.slice(start, end).reduce((acc, x) => `${acc} ${x[0].toUpperCase()}${x.slice(1)}`, '');
+                        lesson = `${lesson ? `${lesson}<br/>` : ''}${row.trim()}`;
+                        start = start + count;
+                        end = end + count;
+                    }
+                    logI(`${lesson}`);
+                }
+            }
         } catch (e) {
             logE(e);
         }

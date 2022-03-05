@@ -1,4 +1,4 @@
-#Letters | 2 letters
+#1Letters | 1#2 Letters
 fj
 dk
 sl
@@ -22,6 +22,10 @@ ap
 ;q
 bn
 vm
+yt
+e,
+wn
+pz
 c,
 x.
 z/
@@ -29,24 +33,9 @@ a[
 f]
 a'
 a\
-s=
-j`
-h2
-a-
-s0
-k2
-d8
-d9
-l3
-s8
-f7
-h4
-j5
-j6
-g7
-g8
+w.
 
-#Letters | 4 letters
+#1Letters | 2#4 Letters
 f;aj
 a;sl
 g;wo
@@ -83,8 +72,12 @@ ghx.
 ghz/
 qwpo
 woa;
+q/zp
+xoe,
+rnby
+vnry
 
-#Numbers and Symbols | Numbers
+#2Numbers and Symbols | 1#Numbers
 12345678
 90876543
 10293847
@@ -100,9 +93,8 @@ woa;
 60/10=?6
 1+2+9=12
 1a+2a=3a
-5x+4x=9x
 
-#Numbers and Symbols | Symbols
+#2Numbers and Symbols | 2#Symbols
 ~!@#$%^&
 *()_+=-#
 5>3=3<5?
@@ -118,29 +110,168 @@ woa;
 {4+7}=11
 |-12|=12
 \[ab]$\g
-`${8+3}`
 
-#Words | Nouns
-lamp quote pocket resist
-tear yearn guitar elapse
-scan power height unique
-plan cable public trance
-rule fence devote buffet
-grow train mobile oppose
-roof funny secure quaint
-knot green misery budget
-film claim helmet needle
-lump bride senior timber
-soak equip cotton spider
-lose chase winter devote
-dish close length delete
-ring valid tumour immune
-nest first demand sleeve
-self state assume affair
-tail swarm prefer bottom
-heel ditch accept kettle
-nail screw insert relate
-area dozen cotent return
+#3Words | 1#A
+Act Add Adv Aft Age Ago<br/>Aid Aim Air Ale Ali All<br/>Amy And Ann Ant Any Ape<br/>Apt Are Ark Arm Art Ash<br/>Ask Asp Ass Ate Aug Aux<br/>Awe Axe Aye
+Abel Able Ache Acid Acre Acts<br/>Adam Adds Afar Aged Ages Aims<br/>Airs Airy Akin Alan Alas Ally<br/>Alma Alms Alps Also Amid Andy<br/>Anna Anne Anon Ante Arab Arch<br/>Area Arms Army Arts Asia Asks<br/>Aunt Away Awed Axes Axis
+Abbey Abide Abode About Above Abuse<br/>Abyss Acres Acted Actor Acute Added<br/>Adieu Admit Adopt Adore Adorn Adult<br/>Afore After Again Agent Agony Agree<br/>Ahead Aided Aimed Aisle Alarm Alert<br/>Alice Alien Alike Alive Allen Alley<br/>Allow Aloft Alone Along Aloof Aloud<br/>Altar Alter Amber Amiss Among Ample<br/>Amply Amuse Angel Anger Angle Angry<br/>Ankle Annoy Apart Apple Apply April<br/>Apron Ardor Arena Argue Arise Armor<br/>Arose Array Arrow Ascii Ashes Aside
+Abject Aboard Abound Abroad Abrupt Absent<br/>Absurd Abused Abuses Accent Accept Access<br/>Accord Accuse Aching Across Acting Action<br/>Active Actual Adding Admire Adored Advent<br/>Advice Advise Affair Affect Affirm Afford<br/>Afraid Afresh Africa Agency Agents Aghast<br/>Agreed Agrees Alaska Albeit Alight Allied<br/>Allude Almost Always Ambush Amends Amidst<br/>Amount Anchor Angelo Angels Animal Annals<br/>Annual Answer Anyhow Anyone Anyway Apiece<br/>Apollo Appeal Appear Arabia Arched Arches<br/>Archie Arctic Ardent Aright Arisen Armies
+Abandon Abiding Ability Abreast Absence Abstain<br/>Accents Accepts Account Accused Achieve Acquire<br/>Actions Actress Adapted Address Admiral Admired<br/>Admirer Adopted Adorned Advance Adverse Advised<br/>Affairs Affords African Against Alabama Alarmed<br/>Alcohol Allowed Already Altered Amateur Amazing<br/>Amiable Amongst Amorous Analogy Anarchy Ancient<br/>Angrily Anguish Animals Annoyed Another Answers<br/>Antique Anxiety Anxious Anybody Apology Apostle<br/>Apparel Appears Appoint Approve Arabian Arduous<br/>Arising Arrange Arrival Article Artists Ascetic<br/>Ashamed Aspects Assault Assured Asunder Attacks
 
-#Sentences | People at a Glance
-People have lived in the world for millions of years. Today, 6.3 billion people live on the earth. The world's population grows by 100 million each year. Some 950 million people in the world are malnourished. There are 106 boys born for every 100 girls. The average male adult is 5'9" tall and weighs 155 pounds. The average female adult is 5'3" tall and weighs 125 pounds.
+#3Words | 2#B
+Bad Bag Bar Bat Bay Bed<br/>Bee Beg Ben Bet Bid Big<br/>Bin Bit Bob Bow Box Boy<br/>Bud Bug But Buy
+Babe Baby Back Bade Bags Bait<br/>Bake Ball Band Bang Bank Bare<br/>Bark Bars Bart Base Bass Bath<br/>Beak Beam Bear Beat Beds Beef<br/>Been Beer Bees Bell Bent Best<br/>Beth Bids Bill Bind Bird Bite<br/>Bits Blew Blot Blow Blue Boat<br/>Body Boer Boil Bold Bolt Bond<br/>Bone Bony Book Boon Boot Bore<br/>Born Boss Both Bowl Bows Boys<br/>Bred Brig Brim Buck Bulk Bull<br/>Burn Bury Bush Bust Busy Butt
+Backs Bacon Badly Baked Baker Balls<br/>Bands Banks Barge Baron Barry Based<br/>Bases Basic Basil Basin Basis Bathe<br/>Baths Beach Beads Beams Beans Beard<br/>Bears Beast Began Begin Being Bells<br/>Belly Below Bench Berth Beset Bills<br/>Billy Birch Birds Birth Black Blade<br/>Blame Blank Blast Blaze Bleak Bless<br/>Blest Blind Bliss Block Blood Bloom<br/>Blown Blows Bluff Blunt Blush Board<br/>Boats Bobby Bolts Bonds Bones Books<br/>Boots Booty Bored Borne Bosom Bough
+Backed Bailey Baking Ballad Bamboo Banish<br/>Banker Banner Barber Barely Barley Barrel<br/>Barren Basket Battle Beasts Beaten Beauty<br/>Beaver Became Become Befall Befell Before<br/>Beggar Begged Begins Behalf Behave Beheld<br/>Behind Behold Beings Belief Belong Berlin<br/>Beside Bestow Betray Better Beware Beyond<br/>Binary Bishop Biting Bitten Bitter Blamed<br/>Blazed Blocks Bloody Boards Bodily Boiled<br/>Boiler Boldly Bolted Bonnet Border Borrow<br/>Bother Bottle Bottom Boughs Bought Bounty<br/>Bowels Bowing Boyish Brains Branch Brandy
+Baffled Baggage Balance Balcony Balloon Banquet<br/>Baptism Baptist Barbara Bargain Barking Baronet<br/>Barrier Bathing Battery Battles Bearded Bearing<br/>Beastly Beating Because Becomes Bedroom Bedside<br/>Begging Behaved Believe Belongs Beloved Bending<br/>Beneath Benefit Beseech Besides Between Betwixt<br/>Bidding Biggest Billion Binding Biscuit Bishops<br/>Blanche Blanket Blazing Blessed Blinded Blocked<br/>Blossom Blowing Blunder Blushed Boasted Bohemia<br/>Boiling Bondage Borders Bottles Bounded Boyhood<br/>Brandon Bravely Bravery Breadth Breasts Breathe<br/>Bridges Briefly Brigade Briskly Bristol British
+
+#3Words | 3#C
+Can Cap Car Cat Con Cor<br/>Cot Cow Cry Cum Cup Cut<br/>Cage Cake Calf Call Calm Came<br/>Camp Cane Cape Caps Card Care<br/>Carl Cars Cart Case Cash Cast<br/>Cats Cave Cell Cent Chap Chat<br/>Chin City Clad Clan Clay Club<br/>Clue Coal Coat Cock Code Coil<br/>Coin Cold Comb Come Cook Cool<br/>Copy Cord Core Cork Corn Cost<br/>Cows Crew Crop Crow Cuba Cups<br/>Curb Cure Curl
+Cabin Cable Calls Camel Canal Candy<br/>Canoe Canon Canst Cared Cares Cargo<br/>Carry Carts Cases Caste Catch Cause<br/>Cease Cedar Cells Cents Chain Chair<br/>Chalk Chant Chaos Chaps Charm Chart<br/>Chase Chasm Cheap Cheat Check Cheer<br/>Chest Chief Child China Choir Chose<br/>Cigar Civil Claim Clara Clare Clash<br/>Clasp Class Clean Clear Cleft Clerk<br/>Click Cliff Cling Clock Close Cloth<br/>Cloud Clubs Clump Clung Coach Coast<br/>Coats Codes Color Comes Comic Coral
+Caesar Called Calmly Calves Canada Candid<br/>Candle Cannon Cannot Canopy Canton Canyon<br/>Carbon Career Caress Carpet Carter Carved<br/>Castle Casual Cattle Caught Causes Cavern<br/>Cavity Ceased Cellar Cement Center Centre<br/>Chains Chairs Chance Change Chapel Charge<br/>Charms Chaste Checks Cheers Cheese Cheque<br/>Chiefs Chilly Choice Choked Choose Chorus<br/>Chosen Church Cicero Cigars Circle Circus<br/>Cities Claims Claude Clause Clergy Clerks<br/>Clever Client Cliffs Climax Closed Closer<br/>Closes Closet Clothe Clouds Cloudy Clumsy
+Cabbage Cabinet Calling Candles Capable Capital<br/>Caprice Captain Captive Capture Caravan Careful<br/>Casting Caution Cavalry Ceiling Censure Central<br/>Century Certain Chamber Chanced Chances Changes<br/>Channel Chapter Charges Chariot Charity Charlie<br/>Charmed Charter Chatter Checked Cheered Cherish<br/>Chicken Chiefly Chimney Circles Circuit Citadel<br/>Citizen Claimed Clapped Clasped Classes Classic<br/>Clatter Cleared Clearer Clearly Climate Climbed<br/>Closely Closest Closing Clothed Clothes Cluster<br/>Collect College Collins Colonel Colored Columns<br/>Combine Comfort Command Commend Comment Commons
+
+#3Words | 4#D
+Dad Dam Dan Day Dec Def<br/>Del Den Dew Dey Did Die<br/>Dig Dim Din Dip Dis Doe<br/>Dog Don Dot Dry Due Dug<br/>Dye
+Dame Damn Damp Dare Dark Dart<br/>Dash Data Date Dave Davy Dawn<br/>Days Dead Deaf Deal Dean Dear<br/>Debt Deck Deed Deem Deep Deer<br/>Defy Deny Desk Dice Dick Dies<br/>Diet Dine Dire Dirt Dish Disk<br/>Dock Does Dogs Doll Dome Done<br/>Doom Door Dora Dose Dost Doth<br/>Dove Down Drag Draw Drew Drop<br/>Drug Drum Duck Duel Duke Dull<br/>Duly Dumb Dusk Dust Duty
+Daily Daisy Dance Dared Dares Dated<br/>Dates Davis Dazed Deals Dealt Death<br/>Debts Deeds Deity Delay Demon Dense<br/>Depth Derby Deuce Devil Diana Diary<br/>Didst Dimly Dined Dingy Dirty Ditch<br/>Dizzy Doing Doors Doubt Dough Dover<br/>Dozen Draft Drain Drama Drank Drawn<br/>Draws Dread Dream Dress Dried Drift<br/>Drill Drink Drive Drops Drove Drown<br/>Drugs Drums Drunk Ducks Durst Dusky<br/>Dusty Dutch Dwarf Dwell Dwelt Dying
+Dagger Dainty Damage Damned Damsel Danced<br/>Dances Danger Daniel Danish Daring Darker<br/>Darkly Darted Darwin Dashed Dawned Deadly<br/>Dealer Dearly Debate Deceit Decent Decide<br/>Decree Deemed Deeper Deeply Defeat Defect<br/>Defend Define Degree Delete Demand Denial<br/>Denied Depart Depend Depths Deputy Derive<br/>Desert Design Desire Detach Detail Detain<br/>Detect Device Devils Devise Devote Devour<br/>Devout Differ Digest Dining Dinner Dipped<br/>Direct Dishes Dismal Dismay Divers Divert<br/>Divide Divine Doctor Dollar Domain Donate
+Damaged Damages Dangers Daresay Dashing Dealing<br/>Dearest Deceive Decency Decided Declare Decline<br/>Deepest Defense Defiant Defined Degrees Deities<br/>Delayed Delight Deliver Demands Denotes Depends<br/>Deposit Deprive Derived Descend Descent Deserts<br/>Deserve Designs Desired Desires Despair Despise<br/>Despite Destiny Destroy Details Develop Devised<br/>Devoted Dialect Diamond Dickens Dictate Dignity<br/>Discern Discord Discuss Disdain Disease Disgust<br/>Dislike Dismiss Display Dispose Dispute Distant<br/>Disturb Diverse Divorce Doctors Dollars Doorway<br/>Doubled Doubted Dragged Drained Draught Drawers
+
+#3Words | 5#E
+Ear Eat Ebb Egg Ein End<br/>Era Esp Esq Ety Eve Eye<br/>Each Earl Earn Ears Ease East<br/>Eats Echo Eddy Eden Edge Edit<br/>Eggs Else Emma Ends Envy Epic<br/>Eric Even Ever Evil Exit Eyed<br/>Eyes
+Eager Eagle Early Earth Eaten Edgar<br/>Edges Eight Elbow Elder Elect Eliza<br/>Ellen Email Empty Ended Enemy Enjoy<br/>Enter Entry Envoy Epoch Equal Erect<br/>Error Essay Ethel Ether Event Every<br/>Evils Exact Exert Exile Exist Extra
+Earned Easier Easily Easter Eating Echoed<br/>Edited Editor Effect Effort Eighth Eighty<br/>Either Elders Eldest Eleven Embark Emblem<br/>Emerge Empire Employ Enable Ending Endure<br/>Energy Engage Engine Enjoys Enmity Enough<br/>Ensure Enters Entire Entity Equals Ernest<br/>Errand Errors Escape Escort Essays Estate<br/>Esteem Ethics Events Exceed Except Excess<br/>Excite Excuse Exempt Exists Expect Expend<br/>Expert Expose Extant Extend Extent
+Eagerly Earlier Earnest Earthly Eastern Economy<br/>Ecstasy Edifice Editing Edition Editors Effects<br/>Efforts Elastic Elderly Elected Elegant Element<br/>Embassy Embrace Emerald Emerged Eminent Emotion<br/>Emperor Empress Enabled Endless Endowed Endured<br/>Enemies Enforce Engaged English Enjoyed Enlarge<br/>Entered Entreat Envious Episode Epistle Equally<br/>Erected Escaped Essence Estates Eternal Ethical<br/>Evening Evident Exactly Exalted Examine Example<br/>Excited Exclaim Exclude Excused Execute Exhibit<br/>Existed Expanse Expends Expense Explain Exploit<br/>Explore Express Extends Extinct Extract Extreme
+
+#3Words | 6#F
+Fan Far Fat Feb Fed Fee<br/>Few Fit Fix Fly Foe Fog<br/>For Fox Fro Fun Fur
+Face Fact Fade Fail Fain Fair<br/>Fall Fame Fare Farm Fast Fate<br/>Fear Feat Feed Feel Fees Feet<br/>Fell Felt File Fill Film Find<br/>Fine Fire Firm Fish Fist Fits<br/>Five Flag Flat Fled Flee Flew<br/>Flow Foam Foes Fold Folk Fond<br/>Food Fool Foot Ford Fore Fork<br/>Form Fort Foul Four Fowl Fray<br/>Fred Free Fret Frog From Fuel<br/>Full Fund Furs Fury Fuss
+Fable Faced Faces Facts Faded Faint<br/>Fairy Faith Falls False Fancy Fanny<br/>Farce Farms Fatal Fault Favor Fears<br/>Feast Feels Fence Fetch Fever Fewer<br/>Field Fiend Fiery Fifth Fifty Fight<br/>Files Filth Final Finds Finer Fires<br/>First Fixed Flags Flame Flank Flash<br/>Flask Fleet Flesh Flies Fling Flint<br/>Float Flock Flood Floor Flora Flour<br/>Flown Flows Fluid Flung Flush Flute<br/>Folds Folio Folks Folly Fools Force<br/>Forms Forth Forty Found Frail Frame
+Fabric Facing Factor Failed Fairly Family<br/>Famine Famous Farmer Fasten Faster Father<br/>Fathom Faults Favors Favour Feared Feeble<br/>Feebly Fellow Female Feudal Fiddle Fields<br/>Fierce Figure Filled Filthy Finely Finest<br/>Finger Finish Firing Firmly Fiscal Fishes<br/>Fitted Fixing Flames Flavor Flight Floods<br/>Flowed Flower Flying Folded Follow Fondly<br/>Forbid Forced Forces Forest Forged Forget<br/>Forgot Formal Format Formed Former Foster<br/>Fought Fourth Framed Freely French Frenzy<br/>Friend Fright Fringe Frozen Fruits Fulfil
+Faction Factors Factory Faculty Failing Failure<br/>Faintly Fairest Fairies Falling Fancied Fancies<br/>Farmers Farming Farther Fashion Fasting Fathers<br/>Fatigue Fearful Feather Feature Federal Feeding<br/>Feeling Fellows Females Fertile Fervent Fiction<br/>Fifteen Figures Filling Finally Finance Finding<br/>Fingers Fishing Fitness Fitting Flaming Flannel<br/>Flashed Flatter Flavour Flights Floated Florida<br/>Flowers Flowing Flushed Flutter Folding Foliage<br/>Follows Foolish Footing Forbade Forbear Forcing<br/>Foreign Foreman Foresaw Foresee Forests Forever<br/>Forfeit Forgive Forlorn Formats Forming Formula
+
+#3Words | 7#G
+Gal Gap Gas Gay Gem Get<br/>Gin Git God Got Gum Gun<br/>Guy
+Gain Gait Gale Game Gang Garb<br/>Gasp Gate Gave Gaze Gear Germ<br/>Gets Gift Gilt Girl Give Glad<br/>Glee Glen Glow Goal Goat Gods<br/>Goes Gold Gone Good Gout Gown<br/>Gray Grew Grey Grim Grin Grip<br/>Grow Gulf Guns
+Gaily Gains Games Gates Gaunt Gazed<br/>Geese Genoa Genus Ghost Giant Giddy<br/>Gifts Girls Given Gives Glare Glass<br/>Gleam Glide Globe Gloom Glory Glove<br/>Godly Going Goods Goose Gorge Grace<br/>Grade Grain Grand Grant Grasp Grass<br/>Grate Grave Great Greed Greek Green<br/>Greet Grief Grind Groan Groom Gross<br/>Group Grove Growl Grown Grows Guard<br/>Guess Guest Guide Guilt Guise
+Gaiety Gained Galley Gallop Gaping Garden<br/>Gasped Gather Gazing Genera Genial Genius<br/>Gentle Gently Gentry Ghosts Gifted Gilded<br/>Girdle Giving Gladly Glance Gloomy Glossy<br/>Golden Goodly Gordon Gospel Gossip Gothic<br/>Gotten Govern Graces Graham Grapes Grassy<br/>Gravel Greasy Greece Greedy Greeks Grieve<br/>Ground Groups Groves Growth Grudge Guards<br/>Guests Guided Guides Guilty Guinea
+Gaining Gallant Gallery Gallows Gardens Garment<br/>General Genesis Genuine Georgia Germans Gesture<br/>Getting Ghastly Ghostly Gilbert Girlish Glanced<br/>Glances Glasses Gliding Glimmer Glimpse Glitter<br/>Glories Glowing Goddess Gradual Grammar Granite<br/>Granted Grasped Gratify Grating Gravely Gravity<br/>Greater Greatly Greeted Grieved Grounds Growing<br/>Growled Guarded Guessed
+
+#3Words | 8#H
+Had Ham Has Hat Hay Hem<br/>Hen Her Hid Him His Hit<br/>Hon Hot How Hue Hum Hut
+Hail Hair Half Hall Halt Hand<br/>Hang Hans Hard Hare Harm Harp<br/>Hart Hast Hate Hath Hats Haul<br/>Have Hawk Haze Head Heal Heap<br/>Hear Heat Heed Heel Heir Held<br/>Hell Helm Help Herb Herd Here<br/>Hero Hers Hide High Hill Hint<br/>Hire Hold Hole Holt Holy Home<br/>Hood Hook Hope Horn Host Hour<br/>Howl Huge Hull Hung Hunt Hurt<br/>Hush Hymn
+Habit Hairy Hands Handy Happy Hardy<br/>Harry Harsh Haste Hasty Hated Haunt<br/>Hazel Heads Heard Hears Heart Heath<br/>Heave Heavy Hedge Heels Helen Hence<br/>Hetty Hides Hills Hindu Hints Hired<br/>Holds Holes Homer Homes Honey Honor<br/>Hoped Hopes Horns Horse Hosts Hotel<br/>Hound Hours House Human Humor Hurry<br/>Hurts
+Habits Halted Hammer Handed Handle Hanged<br/>Happen Harbor Harder Hardly Harris Hasten<br/>Hatred Having Hazard Headed Header Health<br/>Heaped Hearth Hearts Hearty Heated Heaven<br/>Height Helmet Helped Herald Hereby Herein<br/>Heresy Hermit Heroes Heroic Hidden Hiding<br/>Higher Highly Hinder Hither Hoarse Holder<br/>Hollow Holmes Homage Homely Honest Honors<br/>Honour Hoping Horrid Horror Horses Hounds<br/>Houses Howard Humane Humble Humbly Humour<br/>Hunger Hungry Hunted Hunter Hurled Hushed
+Handful Handled Hanging Happens Happier Happily<br/>Harbour Hardest Harmony Harness Harshly Harvest<br/>Hastily Hateful Haughty Haunted Heading Healing<br/>Healthy Hearing Heathen Heavens Heavier Heavily<br/>Heights Helpful Helping Herbert Heroine Heroism<br/>Herself Hideous Highest Highway Himself History<br/>Holding Holiday Holland Honesty Honored Honours<br/>Hopeful Horizon Hostess Hostile However Howling<br/>Huddled Humming Hundred Hunters Hunting Hurried<br/>Husband
+
+#3Words | 9#I
+Ice Icy Ill Ink Inn Irs<br/>Its Ivy<br/>Idea Idle Idly Idol Ills Inch<br/>Into Iris Iron Isle Item
+Ideal Ideas Idiot Image Imply Index<br/>India Infer Inner Irene Irons Irony<br/>Issue Items Ivory
+Ideals Ignore Images Impart Import Impose<br/>Inches Income Indeed Indies Induce Infamy<br/>Infant Inform Injure Injury Inland Innate<br/>Insane Insect Inside Insist Insult Insure<br/>Intend Intent Invade Invent Invest Invite<br/>Inward Island Israel Issued Itself
+Ignoble Ignored Illegal Illness Imagine Imitate<br/>Immense Immoral Implied Implies Implore Imposed<br/>Impress Improve Impulse Incense Incline Include<br/>Indexes Indiana Indoors Induced Indulge Infancy<br/>Inflict Inhabit Inherit Initial Injured Inquire<br/>Inquiry Insects Insight Inspect Inspire Instant<br/>Instead Insults Intense Invaded Invalid Invited<br/>Involve Italian
+
+#3Words | 10#J
+Jam Jan Jar Jaw Jay Jew<br/>Jim Job Joe Joy Jug<br/>Jack Jail Jake Jane Jaws Jean<br/>Jeff Jerk Jest Jews Jobs Joel<br/>John Join Joke Jove Joys Juan<br/>July Jump June Jury Just
+James Janet Japan Jelly Jenny Jewel<br/>Jimmy Joint Jokes Jolly Jones Judas<br/>Judge Juice
+Jacket Jersey Jewels Johnny Joined Jordan<br/>Joseph Joyful Joyous Judged Judges Jumped<br/>Jungle Junior Justly
+Jamaica Jealous Johnson Joining Journal Judging<br/>Jumping Jupiter Justice Justify<br/>Jealousy Joyfully Judgment Judicial Junction Juncture
+
+#3Words | 11#K
+Ken Key Kid Kin<br/>Karl Kate Keen Keep Kent Kept<br/>Keys Khan Kick Kill Kind King<br/>Kirk Kiss Knee Knew Knit Knot<br/>Know
+Keeps Keith Kinds Kings Knave Kneel<br/>Knees Knelt Knife Knock Knots Known<br/>Knows Keenly Keeper Kettle Killed Kinder Kindly<br/>Kissed Kisses Knight Knives
+Keeping Killing Kindled Kindred Kingdom Kissing<br/>Kitchen Knights Knocked Knowing Kindness Kneeling Knitting Knocking
+
+#3Words | 12#L
+Lad Lap Las Law Lay Led<br/>Lee Leg Leo Let Lid Lie<br/>Lip Lit Log Lot Low
+Lace Lack Lads Lady Laid Lain<br/>Lake Lamb Lame Lamp Land Lane<br/>Lark Lash Last Late Lava Lawn<br/>Laws Lays Lazy Lead Leaf Lean<br/>Leap Lees Left Legs Lend Lent<br/>Leon Less Lest Lets Liar Lids<br/>Lied Lies Lieu Life Lift Like<br/>Lily Limb Lime Limp Line Link<br/>Lion Lips List Live Load Loaf<br/>Loan Lock Logs Lone Long Look<br/>Lord Lore Lose Loss Lost Lots<br/>Loud Love Luck Lucy Luke Lump
+Labor Laden Lakes Lambs Lamps Lance<br/>Lands Lapse Large Larry Later Latin<br/>Laugh Laura Layer Leads Leaps Leapt<br/>Learn Lease Least Leave Ledge Legal<br/>Lemon Level Lever Lewis Light Liked<br/>Likes Limbs Limit Lined Linen Lines<br/>Links Lists Lived Liver Lives Livid<br/>Local Locke Locks Lodge Lofty Logic<br/>Login Looks Loose Lords Louis Loved<br/>Lover Loves Lower Lowly Loyal Lucia<br/>Lucky Lunch Lungs Lying Lyric
+Labors Labour Lacked Ladder Ladies Lament<br/>Lances Landed Larger Lasted Lastly Lately<br/>Latent Latest Latter Launch Laurel Lavish<br/>Lawful Lawyer Layers Laying Leaden Leader<br/>League Leaned Leaped Learnt Leaves Legacy<br/>Legend Length Lessen Lesser Lesson Letter<br/>Liable Lifted Lights Likely Liking Lilies<br/>Limits Linger Lining Linked Liquid Liquor<br/>Listen Litter Little Lively Living Loaded<br/>Locked Lodged Lonely Longed Longer Looked<br/>Losing Louder Loudly Lovely Lovers Loving<br/>Lowest Lumber Lustre Luxury
+Labored Labours Lacking Landing Languid Lantern<br/>Largely Largest Lasting Laughed Lawless Lawyers<br/>Leaders Leading Leagues Leaning Leaping Learned<br/>Leather Leaving Lecture Legally Leisure Lessons<br/>Letters Letting Liberal Liberty Library License<br/>Lifting Lighted Lighter Lightly Limited Lincoln<br/>Listing Literal Located Lodging Logical Longest<br/>Longing Looking Lookout Lowered Loyalty Luggage
+
+#3Words | 13#M
+Mac Mad Man Map Mat Max<br/>May Med Meg Men Met Mix<br/>Mob Mon Mud
+Made Maid Mail Main Make Male<br/>Mane Many Maps Mare Mark Mars<br/>Mask Mass Mast Mate Matt Meal<br/>Mean Meat Meek Meet Melt Mend<br/>Mere Mess Mice Mien Mike Mild<br/>Mile Milk Mill Mind Mine Mist<br/>Moan Mock Mode Monk Mood Moon<br/>Moor More Moss Most Move Much<br/>Mule Muse Must Mute Myth
+Madam Madly Magic Maids Maine Major<br/>Maker Makes Males March Marco Maria<br/>Marie Marks Marry Marsh Mason Match<br/>Mates Maxim Maybe Mayor Means Meant<br/>Meats Medal Meets Mercy Merit Merry<br/>Metal Midst Might Milan Miles Mills<br/>Minds Mines Minor Mirth Mixed Model<br/>Moist Money Monks Month Moore Moral<br/>Moses Motor Motto Mould Mound Mount<br/>Mourn Mouse Mouth Moved Moves Muddy<br/>Music
+Madame Maggie Maiden Mainly Maketh Making<br/>Malice Manage Manila Manned Manner Mantle<br/>Manual Manure Marble Margin Marian Marine<br/>Marked Market Martha Martin Martyr Marvel<br/>Masses Master Matron Matter Mature Meadow<br/>Meagre Meddle Medium Mellow Melody Melted<br/>Member Memory Menace Mental Merely Merits<br/>Method Midday Middle Mighty Mildly Miller<br/>Mingle Mining Minute Mirror Misery Misled<br/>Missed Modern Modest Modify Moment Monkey<br/>Months Morals Morbid Morgan Morris Morrow<br/>Morsel Mortal Mortar Moslem Mostly Mother
+Machine Madness Magical Managed Manager Manhood<br/>Mankind Manners Mansion Marched Marches Markets<br/>Marking Marquis Married Marshal Martial Massive<br/>Masters Mastery Matches Matters Matthew Maximum<br/>Maxwell Meaning Measure Medical Meeting Melting<br/>Members Mention Mercury Merrily Message Methods<br/>Mexican Militia Million Mineral Mingled Minimum<br/>Minutes Miracle Mirrors Missing Mission Mistake<br/>Mixture Mocking Modesty Moments Monarch Monkeys<br/>Monster Montana Monthly Morally Morning Mothers<br/>Motives Mounted Muffled Muscles Musical Mystery
+
+#3Words | 14#N
+Nan Nay Ned Net New Nod<br/>Non Nor Not Nov Now Nun<br/>Nail Name Navy Near Neat Neck<br/>Need Ness Nest Nets News Next<br/>Nice Nick Nigh Nile Nina Nine<br/>Noel None Nook Noon Nose Note<br/>Noun Nous Nuts
+Nails Naked Named Names Nancy Nasty<br/>Naval Needs Needy Negro Nerve Never<br/>Newly Niece Nigel Night Ninth Noble<br/>Noise Noisy North Noted Notes Novel<br/>Nurse
+Namely Narrow Nation Native Nature Naught<br/>Nearer Nearly Neatly Needed Needle Nephew<br/>Nerves Nevada Nicely Nigger Nights Ninety<br/>Nobler Nobles Nobody Nodded Normal Norman<br/>Notice Noting Notion Nought Novels Number
+Nations Natives Natural Naughty Nearest Needful<br/>Neglect Negroes Neither Nervous Network Neutral<br/>Nightly Noblest Nodding Nominal Notable Nothing<br/>Noticed Notions Novelty Nowhere Numbers Nursery<br/>Nursing
+
+#3Words | 15#O
+Oak Oar Obs Odd Off Oft<br/>Oil Old Ole One Ore Our<br/>Out Owe Owl Own
+Oars Oath Oats Obey Odds Odor<br/>Omen Omit Once Ones Only Onto<br/>Open Otto Ours Oval Oven Over<br/>Owed Owns Oxen
+Occur Ocean Oddly Odour Offer Often<br/>Older Olive Onion Opens Opera Opium<br/>Order Organ Oscar Other Ought Ounce<br/>Outer Owing Owned Owner
+Obeyed Object Oblige Obtain Occupy Occurs<br/>Odious Offend Offers Office Oldest Oliver<br/>Online Onward Opened Openly Oppose Oracle<br/>Orange Orator Ordeal Orders Organs Origin<br/>Orphan Others Outfit Outlet Outset Owners<br/>Oxford Oxygen
+Objects Obliged Obscure Observe Obvious October<br/>Offence Offense Offered Officer Offices Ominous<br/>Oneself Opening Operate Opinion Opposed Oratory<br/>Orchard Ordered Orderly Organic Orleans Outcome<br/>Outline Outlook Outrage Outside Outward
+
+#3Words | 16#P
+Pan Pat Pay Peg Pen Per<br/>Pet Pie Pig Pin Pit Pot<br/>Pro Pub Put
+Pace Pack Page Paid Pail Pain<br/>Pair Pale Palm Pang Papa Park<br/>Part Pass Past Path Paul Pays<br/>Peak Peas Peep Peer Peru Pick<br/>Pier Pigs Pile Pine Pink Pins<br/>Pint Pipe Pity Plan Play Plea<br/>Plot Plus Poem Pole Pomp Pond<br/>Pony Pool Poor Pope Pork Port<br/>Pose Post Pots Pour Pray Prey<br/>Puff Pull Pump Pure Push
+Paced Paces Padre Pagan Pages Pains<br/>Paint Pairs Panic Paper Parma Parts<br/>Party Paste Patch Paths Patty Paula<br/>Pause Paved Peace Peaks Pearl Peers<br/>Penny Perch Peter Petty Phase Piano<br/>Piece Piety Piled Piles Pilot Pinch<br/>Pious Pipes Pitch Place Plain Plane<br/>Plank Plans Plant Plate Plato Plays<br/>Plead Pluck Plump Poems Poets Point<br/>Poles Pools Porch Ports Posts Pound<br/>Power Press Price Pride Prime Print<br/>Prior Prize Prone Proof Prose Proud
+Packed Packet Paddle Palace Pallid Pallor<br/>Palmer Paltry Panama Papers Parade Parcel<br/>Pardon Parent Parish Parker Parlor Parson<br/>Parted Partly Passed Passes Pastor Patent<br/>Pathos Patron Paused Paying Pencil People<br/>Pepper Perils Period Perish Permit Persia<br/>Person Phases Phoebe Phrase Picked Picnic<br/>Pieces Pierce Pierre Pillar Pillow Pirate<br/>Pistol Pitied Placed Places Placid Plague<br/>Plains Planet Plants Played Player Please<br/>Pledge Plenty Plight Plough Plunge Plural<br/>Pocket Poetic Poetry Points Poison Police
+Pacific Package Packing Painful Painted Painter<br/>Palaces Panting Parapet Parched Parents Parlour<br/>Partake Partial Parties Parting Partner Passage<br/>Passing Passion Passive Pasture Patches Pathway<br/>Patient Patriot Pattern Payable Payment Peasant<br/>Pebbles Peeping Penalty Penance Pension Pensive<br/>Peoples Perfect Perform Perfume Perhaps Persian<br/>Persist Persons Perusal Phantom Phrases Picture<br/>Pierced Pilgrim Pillars Pioneer Pirates Pitched<br/>Pitcher Pitiful Placing Plainly Planets Planned<br/>Planted Plaster Plateau Players Playful Playing<br/>Pleaded Pleased Pledged Plucked Plunder Plunged
+
+#3Words | 17#Q
+Quay Quit Quod<br/>Quart Queen Queer Quest Quick Quiet<br/>Quite Quote Quoth
+Quaint Quaker Quarry Quiver Quoted<br/>Quality Quarrel Quarter Quicker Quickly Quietly<br/>Quitted Quantity Quarters Question
+
+#3Words | 18#R
+Rag Ram Ran Rat Raw Ray<br/>Red Rev Rid Rob Rod Rot<br/>Row Roy Rub Rue Rug Rum<br/>Run
+Race Rack Raft Rage Rags Raid<br/>Rail Rain Rang Rank Rare Rash<br/>Rate Rats Rays Read Real Reap<br/>Rear Reed Reef Rein Rely Rent<br/>Rest Rice Rich Ride Ring Riot<br/>Ripe Rise Risk Rite Road Roar<br/>Robe Rock Rode Role Roll Roof<br/>Room Root Rope Rosa Rose Rosy<br/>Rout Rows Ruby Rude Ruin Rule<br/>Rung Runs Rush Ruth
+Races Rains Rainy Raise Rally Ralph<br/>Ranch Range Ranks Rapid Rates Ratio<br/>Reach Reads Ready Realm Rebel Refer<br/>Reign Reins Relic Renew Repay Reply<br/>Rests Rhine Rhyme Rider Rides Ridge<br/>Rifle Right Rigid Rings Risen Rises<br/>Rival River Roads Roast Robes Robin<br/>Rocks Rocky Roger Rogue Rolls Roman<br/>Roofs Rooms Roots Ropes Roses Rough<br/>Round Rouse Route Royal Ruddy Ruins<br/>Ruled Ruler Rules Rumor Rural Rusty
+Rabbit Rabble Racing Ragged Raging Raised<br/>Random Ranges Ransom Rarely Rascal Rather<br/>Rattle Ravine Reader Really Reared Reason<br/>Rebels Rebuke Recall Recent Recess Reckon<br/>Record Rector Redeem Reduce Reform Refuge<br/>Refund Refuse Regain Regard Region Regret<br/>Reigns Reject Relate Relief Relish Remain<br/>Remark Remedy Remind Remote Remove Render<br/>Renown Repaid Repair Repast Repeat Repent<br/>Report Repose Repute Rescue Resent Reside<br/>Resign Resist Resort Rested Result Resume<br/>Retain Retire Retort Return Reveal Review
+Radiant Radical Railing Railway Raiment Rainbow<br/>Raising Rapidly Rapture Reached Reaches Readers<br/>Readily Reading Realise Reality Realize Reasons<br/>Receipt Receive Recital Records Recover Reddish<br/>Redress Reduced Refined Reflect Reforms Refrain<br/>Refusal Refused Regards Regions Regular Reigned<br/>Rejoice Related Relaxed Release Relieve Remains<br/>Remarks Remnant Remorse Removal Removed Renewed<br/>Replace Replied Replies Reports Repress Reproof<br/>Request Require Rescued Reserve Resolve Respect<br/>Respite Respond Resting Restore Results Resumed<br/>Returns Revenge Revenue Reverie Reverse Revival
+
+#3Words | 19#S
+Sad Sam Sap Saw Say Sea<br/>See Set Sex Sez She Shy<br/>Sic Sin Sir Sit Six Sky<br/>Sly Sob Sol Son Sow Spy<br/>Sub Sue Sum Sun Sup
+Sack Safe Said Sail Sake Sale<br/>Same Sand Sane Sang Sank Sate<br/>Saul Save Says Scar Scot Seal<br/>Seas Seat Sect Seed Seek Seem<br/>Seen Sees Self Sell Send Sent<br/>Sets Sham Shaw Shed Shew Ship<br/>Shoe Shop Shot Show Shun Shut<br/>Sick Side Sigh Sign Silk Sing<br/>Sink Sins Sire Site Sits Size<br/>Skin Slay Slew Slid Slim Slip<br/>Slow Snap Snow Snug Soap Soda<br/>Sofa Soft Soil Sold Sole Some
+Sadly Sails Saint Salad Sales Sally<br/>Salon Sandy Santa Satan Satin Sauce<br/>Saved Saxon Scale Scant Scare Scarf<br/>Scene Scent Scope Score Scorn Scots<br/>Scout Scrap Screw Scrub Seals Seats<br/>Seeds Seems Seine Seize Sends Sense<br/>Serve Seven Sexes Shade Shady Shaft<br/>Shake Shall Shalt Shame Shape Share<br/>Sharp Shawl Sheep Sheer Sheet Shelf<br/>Shell Shift Shine Ships Shirt Shock<br/>Shoes Shone Shook Shoot Shops Shore<br/>Short Shout Shown Shows Shrug Sides
+Sacred Saddle Safely Safety Sailed Sailor<br/>Saints Salary Salmon Saloon Salute Sample<br/>Samuel Satire Savage Saving Saying Scales<br/>Scanty Scarce Scared Scenes Scheme School<br/>Scotch Scrape Scraps Scream Screen Sealed<br/>Seaman Seamen Search Season Seated Second<br/>Secret Secure Seeing Seemed Seized Seldom<br/>Select Senate Senior Senses Sentry Sequel<br/>Serene Series Sermon Served Serves Settle<br/>Severe Sewing Sexual Shabby Shades Shadow<br/>Shaggy Shaken Shaped Shapes Shared Shares<br/>Sheets Shells Shield Shiver Shoots Shores
+Sabbath Sadness Sailing Sailors Saluted Sarcasm<br/>Satisfy Savages Savings Saviour Scandal Scarlet<br/>Scatter Scenery Sceptre Schemes Scholar Schools<br/>Science Scorned Scourge Scratch Scruple Seasons<br/>Seconds Secrecy Secrets Section Secular Secured<br/>Seeking Seeming Seizing Selfish Selling Senator<br/>Sending Sensual Serious Serpent Servant Service<br/>Serving Session Setting Settled Seventh Seventy<br/>Several Shadows Shadowy Shaking Shallow Sharing<br/>Sharply Shelter Shelves Sheriff Shining Shocked<br/>Shorter Shortly Shouted Showing Shudder Signals<br/>Signify Silence Silvery Similar Simpler Sincere
+
+#3Words | 20#T
+Tap Tax Tea Ted Ten The<br/>Thy Tie Tim Tin Tip Toe<br/>Tom Ton Too Top Toy Try<br/>Tub Two
+Tact Tail Take Tale Talk Tall<br/>Tame Tank Task Team Tear Tell<br/>Tend Tent Term Test Text Than<br/>That Thee Them Then They Thin<br/>This Thou Thus Tide Tied Till<br/>Time Tint Tiny Tips Tire Told<br/>Tomb Tone Tons Tony Took Tool<br/>Tops Tore Torn Toss Tour Tout<br/>Town Trap Tray Tree Trim Trip<br/>Trod Trot Troy True Tube Tune<br/>Turf Turk Turn Twin Type
+Table Taken Takes Tales Talks Tarry<br/>Taste Taxes Teach Tears Teddy Teeth<br/>Tells Tempt Tends Tenor Tense Tenth<br/>Tents Terms Texas Texts Thank Theft<br/>Their Theme There These Thick Thief<br/>Thigh Thine Thing Think Third Thorn<br/>Those Three Threw Throw Thumb Tiger<br/>Tight Tilde Times Tinge Tints Tired<br/>Title Toast Today Token Tommy Tones<br/>Tools Tooth Topic Torch Total Touch<br/>Tough Tower Towns Trace Track Tract<br/>Trade Trail Train Trait Tramp Tread
+Tables Tackle Tailor Taking Talent Talked<br/>Taller Tapped Target Tariff Tasted Tastes<br/>Taught Tavern Taylor Temper Temple Tenant<br/>Tended Tender Termed Terror Tested Thanks<br/>Theirs Thence Theory Things Thinks Thirst<br/>Thirty Though Thread Threat Thrice Thrill<br/>Throat Throne Throng Thrown Throws Thrust<br/>Ticket Timber Timely Tissue Titles Toilet<br/>Tongue Topics Tossed Toward Towers Traced<br/>Traces Tracks Trader Trades Tragic Trains<br/>Traits Trance Travel Treaty Tremor Trench<br/>Trials Tribes Tricks Trifle Troops Trunks
+Tactics Talents Talking Tangled Teacher Tearing<br/>Tedious Telling Tempest Temples Tempted Tending<br/>Tension Terrace Testify Texture Thanked Theater<br/>Theatre Thereby Therein Thereof Thereon Thereto<br/>Thicket Thickly Thieves Thirsty Thither Thought<br/>Threads Threats Through Thunder Thyself Tickets<br/>Tidings Tightly Timothy Tobacco Tongues Tonight<br/>Torment Torrent Torture Totally Touched Touches<br/>Towards Tracing Trading Traffic Tragedy Trailer<br/>Trained Traitor Travels Treason Treated Tremble<br/>Tribune Tribute Trifles Triumph Trivial Trodden<br/>Trouble Trumpet Trusted Tumbled Turmoil Turning
+
+#3Words | 21#U
+Use Ugly Unit Unto Upon Urge Used<br/>User Uses Uncle Under Undue Unfit Union Unite<br/>Unity Until Upper Upset Urged Usage<br/>Using Usual Utter
+Unable Undone Uneasy Unfair Unique United<br/>Unjust Unkind Unless Unlike Unreal Unseen<br/>Untrue Uproar Upward Urgent Urging Useful<br/>Utmost
+Unarmed Unaware Unclean Uncouth Undergo Unequal<br/>Unhappy Uniform Unknown Unlucky Unusual Upright<br/>Upwards Useless Usually Utility Uttered Utterly<br/>Ultimate Umbrella Unbroken Uncommon Universe Unjustly<br/>Unlikely Unlocked Unwonted Unworthy Upstairs
+
+#3Words | 22#V
+Val Van Vii Vol Vow<br/>Vain Vale Vary Vase Vast Veil<br/>Vein Vent Vera Verb Very Vest<br/>Vice View Vile Vine Void Vote
+Vague Valet Valid Valor Value Valve<br/>Vapor Vault Veins Venus Verge Verse<br/>Vexed Vicar Views Vigor Villa Vines<br/>Virus Visit Vital Vivid Vocal Voice<br/>Votes Vowed
+Vacant Vainly Valley Valour Valued Values<br/>Vanish Vanity Vapour Varied Varies Velvet<br/>Verbal Verily Verses Vessel Vested Victim<br/>Victor Viewed Vigour Violet Violin Virgin<br/>Virtue Visage Vision Voices Volley Volume<br/>Voting Voyage Vulgar
+Vacancy Vaguely Valiant Variety Various Varying<br/>Vehicle Venture Veranda Verdict Verdure Version<br/>Vessels Veteran Vicious Victims Victory Viewing<br/>Village Villain Vincent Vinegar Violent Virtues<br/>Visible Visions Visited Visitor Vividly Volcano<br/>Volumes
+
+#3Words | 23#W
+Wad Wan War Was Wax Way<br/>Web Wed Wee Wet Who Why<br/>Wid Wig Win Wit Woe Won
+Wade Wage Wail Wait Wake Walk<br/>Wall Walt Wand Want Ward Ware<br/>Warm Warn Wars Wary Wash Wast<br/>Wave Ways Weak Wear Weed Week<br/>Weep Well Went Wept Were Wert<br/>West What When Whig Whim Whip<br/>Whit Whom Wife Wild Will Wilt<br/>Wind Wine Wing Wink Wins Wipe<br/>Wire Wise Wish With Wits Woke<br/>Wolf Womb Wont Wood Wool Word<br/>Wore Work Worm Worn Wrap Writ
+Wager Wages Wagon Waist Waked Wales<br/>Walks Walls Wants Wares Waste Watch<br/>Water Waved Waves Wears Weary Weeks<br/>Weigh Weird Wells Welsh Wench Whale<br/>Wharf Wheat Wheel Where Which While<br/>Whirl White Whole Whose Wider Widow<br/>Width Winds Wines Wings Wiped Wires<br/>Wiser Witch Witty Wives Woman Women<br/>Woods Words Works World Worms Worry<br/>Worse Worst Worth Would Wound Woven<br/>Wrath Wreck Wrist Write Wrong Wrote<br/>Wrung
+Waited Waiter Waking Walked Walker Walter<br/>Wander Wanted Wanton Warmer Warmly Warmth<br/>Warned Washed Wasted Waters Watery Watson<br/>Weaken Weaker Weakly Wealth Weapon Wedded<br/>Weekly Weight Wheels Whence Whilst Whisky<br/>Whites Wholly Wicked Widely Widest Wildly<br/>Wilful Willie Willow Window Winged Winter<br/>Wintry Wisdom Wisely Wished Wishes Withal<br/>Within Wolves Wonder Wooded Wooden Worked<br/>Worker Worlds Worthy Wounds Wreath Wretch<br/>Wright Writer Writes Wrongs
+Waiting Walking Wanting Warfare Warlike Warning<br/>Warrant Warrior Washing Wasting Watched Watches<br/>Wealthy Weapons Wearied Wearily Wearing Weather<br/>Weaving Wedding Weeping Weighed Weighty Welcome<br/>Welfare Western Wheeled Whereas Whereby Wherein<br/>Whereof Whether Whipped Whiskey Whisper Whistle<br/>Whither Whoever Willing Winding Windows Winning<br/>Wishing Wistful Without Witness Womanly Wonders<br/>Woollen Workers Working Workman Workmen Worldly<br/>Worried Worship Wounded Wrapped Wrecked Writers<br/>Writing Written Wrought
+
+#3Words | 24#X
+Xat Xes Xis Xats Xdiv Xian Xing Xyst<br/>Xebec Xenia Xenon Xeric Xerus Xians Xebeces<br/>Xenial Xenias Xenons Xoanon Xylans<br/>Xanthan Xanthic Xanthin Xennial Xerarch Xeroses
+
+#3Words | 25#Y
+Yea Yer Yes Yet Yon You<br/>Yale Yard Yarn Year Yell Yoke<br/>Yore Your Yacht Yards Years Yield Young Yours<br/>Youth Yankee Yearly Yellow Yonder Yawning Yielded<br/>Younger Yearning Yielding Youngest Yourself Youthful
+
+#3Words | 26#Z
+Zag Zap Zas Zax Zed Zee Zoo<br/>Zafu Zags Zany Zaps Zarf Zeal<br/>Zaddy Zafus Zaire Zakah Zakat Zambo<br/>Zaatar Zaddik Zaffer Zaffre Zaftig Zagged<br/>Zaatars Zabuton Zaddies Zaffers Zagging Zaffres
+
+#4Short Sentences
+You are loved.<br/>You make me smile.<br/>My world is better with you in it.<br/>I will do my best to keep you safe.
+Sometimes I will say no.<br/>I have faith in you.<br/>I know you can handle it.<br/>You are creative.
+
+#5Long Sentences
+If you see someone without a smile,<br/>give them one of yours.<br/>It always seems impossible until it is done.<br/>Keep your face to the sunshine<br/>and you cannot see a shadow.<br/>The only time you fail is when you fall down<br/>and stay down.<br/>It makes a big difference in your life<br/>when you stay positive.<br/>The way i see it, if you want the rainbow,<br/>you gotta put up with the rain.
+The best way out is always through.<br/>If there is no struggle, there is no progress.<br/>Courage is like a muscle. We strengthen it by use.<br/>More is lost by indecision than wrong decision.<br/>Worry is a misuse of imagination.<br/>A year from now you'll wish you had started today.<br/>Somewhere, something great is waiting to be known.
