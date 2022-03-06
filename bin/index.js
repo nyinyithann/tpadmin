@@ -39,12 +39,15 @@ async function getLessonsFromFile(filePath) {
                 category = category.trim();
                 title = title ? title.trim() : '';
             } else {
+                const bonusPoints = category.startsWith("1") || category.startsWith("2")
+                    ? 30 : line.trim().length;
                 lessons.push({
                     id: index++,
                     type: "default",
                     category,
                     title,
-                    content: line.trim()
+                    content: line.trim(),
+                    bonusPoints
                 });
             }
         }
@@ -85,6 +88,7 @@ function readUploadedLessonCount() {
 }
 
 async function writeConfigs(db, configs) {
+    console.table(configs);
     await db.collection("configs").doc("configs_id").set(configs);
 }
 
@@ -126,7 +130,7 @@ program.command("uploadLessons")
 
             await writeLessons(db, lessons);
             saveUploadedLessonCount(lessons.length);
-            logS("All lessons are uploaded successfully.");
+            logS("All lessons are uploaded successfully. Total lessons: " + lessons.length);
         } catch (e) {
             logE(e);
         }
