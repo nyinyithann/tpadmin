@@ -40,7 +40,7 @@ async function getLessonsFromFile(filePath) {
                 title = title ? title.trim() : '';
             } else {
                 const bonusPoints = category.startsWith("1") || category.startsWith("2")
-                    ? 30 : line.trim().length;
+                    ? 60 : line.trim().length;
                 lessons.push({
                     id: index++,
                     type: "default",
@@ -57,13 +57,29 @@ async function getLessonsFromFile(filePath) {
     return lessons;
 }
 
+// async function writeLessons(db, lessons) {
+//     const deleteBatch = db.batch();
+//     logI("deleting lessons collection...");
+//     db.collection("lessons").listDocuments().then(docs => {
+//         docs.map(doc => deleteBatch.delete(doc));
+//         deleteBatch.commit();
+//     })
+
+//     logI("Uploading lessons to firestore...");
+//     const writeBatch = db.batch();
+//     for (let l of lessons) {
+//         const docRef = db.collection("lessons").doc();
+//         writeBatch.set(docRef, l);
+//     }
+//     return writeBatch.commit();
+// }
+
 async function writeLessons(db, lessons) {
     const deleteBatch = db.batch();
     logI("deleting lessons collection...");
-    db.collection("lessons").listDocuments().then(docs => {
-        docs.map(doc => deleteBatch.delete(doc));
-        deleteBatch.commit();
-    })
+    const docList = await db.collection("lessons").listDocuments();
+    docList.map(doc => deleteBatch.delete(doc));
+    await deleteBatch.commit();
 
     logI("Uploading lessons to firestore...");
     const writeBatch = db.batch();
@@ -179,27 +195,62 @@ async function getWordsFromFile() {
     return words;
 }
 
+// program.command("words")
+//     .description("Display words in A-Z order")
+//     .action(async (options) => {
+//         try {
+//             const words = await getWordsFromFile();
+//             words.sort((x, y) => x.length - y.length);
+//             let count = 1;
+//             for (let i = 97; i < 123; i++) {
+//                 const alphabet = String.fromCharCode(i);
+//                 const wordStartedWithAlphabet = words.filter(x => x.startsWith(alphabet));
+//                 const groups = wordStartedWithAlphabet.groupBy(x => x.length);
+//                 logI(`\n#3Words | ${count++}#${alphabet.toUpperCase()}`);
+//                 for (const [key, values] of groups) {
+//                     if (key > 7) continue;
+//                     let count = 6
+//                     let end = count;
+//                     let start = 0;
+//                     let rowCount = 0;
+//                     let lesson = "";
+//                     while (start < values.length) {
+//                         if (rowCount++ === 12) break;
+//                         const row = values.slice(start, end).reduce((acc, x) => `${acc} ${x[0].toUpperCase()}${x.slice(1)}`, '');
+//                         lesson = `${lesson ? `${lesson}<br/>` : ''}${row.trim()}`;
+//                         start = start + count;
+//                         end = end + count;
+//                     }
+//                     logI(`${lesson}`);
+//                 }
+//             }
+//         } catch (e) {
+//             logE(e);
+//         }
+//     });
+
 program.command("words")
     .description("Display words in A-Z order")
     .action(async (options) => {
         try {
-            const words = await getWordsFromFile();
-            words.sort((x, y) => x.length - y.length);
-            for (let i = 97; i < 122; i++) {
-                const alphabet = String.fromCharCode(i);
-                const wordStartedWithAlphabet = words.filter(x => x.startsWith(alphabet));
-                const groups = wordStartedWithAlphabet.groupBy(x => x.length);
-                logI(`\n#Words | ${alphabet.toUpperCase()}`);
-                for (const [key, values] of groups) {
-                    if (key > 8) continue;
-                    let count = 6
-                    let end = count;
-                    let start = 0;
-                    let rowCount = 0;
+            let titleCount = 1;
+            let words = await getWordsFromFile();
+            for (let i = 97; i < 123; i++) {
+                let alphabet = String.fromCharCode(i);
+                let wordStartedWithAlphabet = words.filter(x => x.startsWith(alphabet) && x.length > 2 && x.length < 9);
+                logI(`\n#3Words | ${titleCount++}#${alphabet.toUpperCase()}`);
+
+                let count = 6;
+                let end = count;
+                let start = 0;
+                let lessonCount = 0;
+
+                while (lessonCount++ < 10) {
                     let lesson = "";
-                    while (start < values.length) {
-                        if (rowCount++ === 12) break;
-                        const row = values.slice(start, end).reduce((acc, x) => `${acc} ${x[0].toUpperCase()}${x.slice(1)}`, '');
+                    let rowCount = 0;
+                    while (rowCount++ < 12) {
+                        const row = wordStartedWithAlphabet.slice(start, end).reduce((acc, x) => `${acc ? `${acc} ` : ''}${x}`, '');
+                        if (row.length > 50) continue;
                         lesson = `${lesson ? `${lesson}<br/>` : ''}${row.trim()}`;
                         start = start + count;
                         end = end + count;
