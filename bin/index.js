@@ -177,7 +177,7 @@ program.command("updateConfig")
   });
 
 async function getWordsFromFile() {
-  const filePath = path.join(path.resolve(), './data/commonwords.txt');
+  const filePath = path.join(path.resolve(), './data/words.txt');
   const rl = createInterface({
     input: createReadStream(filePath),
     crlfDelay: Infinity
